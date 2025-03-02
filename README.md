@@ -1,7 +1,6 @@
-```markdown
 # Finetuning Lambda Diffusers
 
-This notebook implements an image-guided pattern generator using the Stable Diffusion (SD) pipeline and CLIP model. The system generates variations of input images based on guidance from the CLIP model. It includes components for dataset management, image augmentation, and training a neural network model to refine and generate image variations.
+This notebook finetunes lambda-diffusers on carpet pattern variations data. The system generates variations of input images based on guidance from the CLIP model. It includes components for dataset management, image augmentation, and training a neural network model to refine and generate image variations.
 
 ## Features
 - Image-based pattern generation using Stable Diffusion and CLIP models.
